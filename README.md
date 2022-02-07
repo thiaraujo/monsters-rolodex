@@ -1,6 +1,6 @@
 # monsters-rolodex
 
 #About
-Projeto criado durante o treinamento de React.
+Project created during React training.
 
 https://thiaraujo.github.io/monsters-rolodex
